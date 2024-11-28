@@ -14,6 +14,10 @@ This project's objective is to utilize advanced information handling and machine
 
 - To investigate how natural language processing methods, like TF-IDF, Stop Words and HashingTF, improve machine learning model's predictive power.
 
+# Dataset Link
+https://amazon-reviews-2023.github.io/
+- Go to Grouped by Category and Download All_Beauty Dataset
+
 # Tools and Technologies Used
 - Python
 - Numpy
